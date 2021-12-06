@@ -17,6 +17,8 @@ mkdir ~/downloads
 cd ~/downloads
 
 wget https://assets.nagios.com/downloads/nagioscore/releases/nagios-4.4.6.tar.gz
+
+
 wget http://www.nagios-plugins.org/download/nagios-plugins-2.3.3.tar.gz
 
 tar zxvf nagios-4.0.8.tar.gz
