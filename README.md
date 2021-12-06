@@ -17,7 +17,7 @@ mkdir ~/downloads
 cd ~/downloads
 
 wget https://sourceforge.net/projects/nagios/files/nagios-4.x/nagios-4.0.8/nagios-4.0.8.tar.gz/download?use_mirror=udomain
-wget https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGx2Tm55anBZMndsWVZnT1F6NVkwY0FVX05zZ3xBQ3Jtc0tuVUFLQmJhMXpUZXg3QU16M0todl9uZGRpTS14UTlJTzhuT0dwLXpYVTRYdFlvQUlTZU5PS3F3RHhOYzd1OUxValgwMWpWTDhpU1FmbWh2M3hSSFBRVU1FSHBWLWhuTHZkYXAtOGZ1Z3d0a3YwMDZKNA&q=http%3A%2F%2Fnagios-plugins.org%2Fdownload%2Fnagios-plugins-2.0.3.tar.gz
+wget http://www.nagios-plugins.org/download/nagios-plugins-2.3.3.tar.gz
 
 tar zxvf nagios-4.0.8.tar.gz
 cd nagios-4.0.8
